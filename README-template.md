@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/mfahikk1/NFTPreviewCardComponent](https://github.com/mfahikk1/NFTPreviewCardComponent)
+- Live Site URL: [https://mfahikk1.github.io/NFTPreviewCardComponent/](https://mfahikk1.github.io/NFTPreviewCardComponent/)
 
 ## My process
 
